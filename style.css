@@ -18,12 +18,13 @@ h1.temp {
     margin-bottom: .4em;
     
 }
-
+/* For C - F conversions 
 h1.temp:hover {
     cursor: pointer;
     width: 150px;
 
 }
+*/
 
 .card {
     background: #000000d0;
